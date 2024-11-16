@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioNetCoreV1", "SistemaInventarioNetCoreV1\SistemaInventarioNetCoreV1.csproj", "{355C8C97-65BC-44D0-AFFC-FC119E6B472A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaInventarioNetCoreV1", "SistemaInventarioNetCoreV1\SistemaInventarioNetCoreV1.csproj", "{355C8C97-65BC-44D0-AFFC-FC119E6B472A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioNetCoreV1.AccesoDatos", "SistemaInventarioNetCoreV1.AccesoDatos\SistemaInventarioNetCoreV1.AccesoDatos.csproj", "{A605BF0D-1FA6-4FCB-89C9-7CB0AE6000F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaInventarioNetCoreV1.AccesoDatos", "SistemaInventarioNetCoreV1.AccesoDatos\SistemaInventarioNetCoreV1.AccesoDatos.csproj", "{A605BF0D-1FA6-4FCB-89C9-7CB0AE6000F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioNetCoreV1.Modelos", "SistemaInventarioNetCoreV1.Modelos\SistemaInventarioNetCoreV1.Modelos.csproj", "{D626B83E-B68A-45BE-971B-769EC653D4C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaInventarioNetCoreV1.Modelos", "SistemaInventarioNetCoreV1.Modelos\SistemaInventarioNetCoreV1.Modelos.csproj", "{D626B83E-B68A-45BE-971B-769EC653D4C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioNetCoreV1.Utilidades", "SistemaInventarioNetCoreV1.Utilidades\SistemaInventarioNetCoreV1.Utilidades.csproj", "{EB9B0839-E2FD-4F43-8573-5EBC700F0B20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaInventarioNetCoreV1.Utilidades", "SistemaInventarioNetCoreV1.Utilidades\SistemaInventarioNetCoreV1.Utilidades.csproj", "{EB9B0839-E2FD-4F43-8573-5EBC700F0B20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
