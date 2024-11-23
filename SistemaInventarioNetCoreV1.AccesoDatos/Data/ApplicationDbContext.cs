@@ -14,6 +14,7 @@ namespace SistemaInventarioNetCoreV1.AccesoDatos.Data
 
         public DbSet<Bodega> Bodega { get; set; }
         public DbSet<Categoria> Categoria { get; set; }
+        public DbSet<Marca> Marca { get; set; }
       
         protected override void OnModelCreating(ModelBuilder builder)
         {
